@@ -1,0 +1,12 @@
+.InfoBox {
+    text-align: center;
+}
+
+.cardContainer {
+    display: flex;
+    justify-content: center;
+}
+
+.card{
+    box-shadow: 10px 5px 5px rgb(142, 149, 215);
+}
