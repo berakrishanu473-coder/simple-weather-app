@@ -7,6 +7,7 @@ export default defineConfig({
    server: {
     host: "0.0.0.0",
     port: 10000,
+    historyApiFallback: true,
     allowedHosts: [
       "simple-weather-app-w1he.onrender.com"
     ]
