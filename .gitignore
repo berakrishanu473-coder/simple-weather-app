@@ -25,4 +25,3 @@ dist-ssr
 .env
 README.md
 public
-package-lock.json
